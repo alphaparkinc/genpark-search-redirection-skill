@@ -1,17 +1,17 @@
-﻿{
-    "version":  "1.0.0",
-    "name":  "genpark-search-redirection-skill",
-    "outputs":  {
-                    "result_val":  {
-                                       "type":  "string"
-                                   }
-                },
-    "description":  "GenPark search query redirection router mapping queries to landers.",
-    "inputs":  {
-                   "input_val":  {
-                                     "type":  "string"
-                                 }
-               },
-    "author":  "alphaparkinc",
-    "prompt":  "Coordinate genpark-search-redirection-skill operations using the input configurations."
+{
+  "version": "1.0.0",
+  "name": "genpark-search-redirection-skill",
+  "outputs": {
+    "result_val": {
+      "type": "string"
+    }
+  },
+  "description": "GenPark search query redirection router mapping queries to landers.",
+  "inputs": {
+    "input_val": {
+      "type": "string"
+    }
+  },
+  "author": "genpark",
+  "prompt": "Coordinate genpark-search-redirection-skill operations using the input configurations."
 }
